@@ -1,4 +1,4 @@
-# Li-Fi_Pro
+# Li-Fi Pro
 Communication method between two STM32L476G boards across light from an LED. 
 
 This project uses C and ASM. 
