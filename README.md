@@ -1,7 +1,7 @@
 # Li-Fi Pro
 Communication method between two STM32L476G boards across light from an LED. 
 
-This project uses C and ASM. 
+This project uses C and ASM in line. 
 
 Execute from main.c in STM32 Eclipse Workbench on each device, TX and RX respectfully. 
 
